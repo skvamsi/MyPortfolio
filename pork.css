@@ -1,0 +1,319 @@
+body{
+    background-color: lightblue;
+}
+.bg1{
+    width: 100%;
+}
+
+.class-1{
+    width:100%;
+    height: 95vh;
+    position:relative;
+    left: 15%;
+    top:5%;
+    border-radius: 1em;
+}
+.class-2{
+    background-color: gray;
+    width:100%;
+    height: 95vh;
+    position: relative;
+    top: 5%;
+    left: 5%;
+    border-radius: 1em;
+}
+.class-3{
+    background-color: gray;
+    width:30%;
+    height: 40vh;
+    position: relative;
+    left: 16%;
+    top: 5%;
+    border-radius: 1em;
+    text-align: center;
+    justify-content: center;
+}
+.class-3 i {
+    font-size: 1.3em;
+    position: relative;
+    top: 15%;
+    margin-bottom: 40%;
+    cursor: pointer;
+}
+.class-4 {
+
+    width: 57%;
+    height: 27%;
+    position: relative;
+    left: 21%;
+    top: 5%;
+    border-radius: 1em;
+}
+.class-4 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 1em;
+}
+.class-5{
+    width: 100%;
+    height: 70%;
+    background-color: lightslategray;
+    border-radius: 1em;
+}
+.class-6{
+    width: 100%;
+    height: 33%;
+    background-color: lightcoral;
+    border-radius: 1em;
+}
+.class-7{
+    width: 100%;
+    height: 22%;
+    position: relative;
+    top: 25%;
+    margin-bottom: 2%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-family: serif;
+    font-size: 1.3em;
+    font-weight: 450;
+}
+.class-8{
+    width: 40%;
+    height: 22%;
+    background-color: lightgray;
+    position: relative;
+    top: 25%;
+    left: 30%;
+    font-weight: 400;
+    font-size: 1em;
+    font-style:italic ;
+    margin-bottom: 2%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+}
+.class-9{
+    width: 100%;
+    height: 22%;
+    position: relative;
+    top: 25%;
+    background-color: lightgreen;
+    margin-bottom: 2%;
+    /*align-items: center;
+    text-align: center;
+    justify-content: center;
+*/    font-family: serif;
+    font-size: 1.3em;
+    font-weight: 450;
+    border-radius: 1em;
+}
+.class-9 i{
+    margin-left: 10%;
+    position: relative;
+    left: 10%;
+    color: inherit;
+}
+.class-9 a{
+    text-decoration: none;
+    color: inherit;
+}
+.class-10 {
+    width: 80%;
+    height: 45%;
+    background-color: lightyellow;
+    border-radius: 1em;
+    position: relative;
+    left: 10%;
+    top: 7%;
+}
+.class-11 {
+    width: 100%;
+    height: 24%;
+    background-color: lightgreen;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    margin-bottom: 1%;
+    position: relative;  
+}
+.class-11 i {
+    font-size: 1.7em;
+    float: left;
+    margin-left: 5%;
+    position: relative;
+    top: 19%;
+}
+.class-11 label{
+    position: relative;
+    left: 5%;
+    font-style: oblique;
+}
+.class-11 span{
+    position: relative;
+    top: 40%;
+    right: 15%;
+    font-weight: 500;
+}
+.class-12 {
+    width: 100%;
+    height: 24%;
+    background-color: lightgreen;
+    
+    margin-bottom: 1%;
+    position: relative;  
+}
+.class-12 label{
+    position: relative;
+    left: 5%;
+    font-style: oblique;
+}
+
+.class-14{
+    width: 80%;
+    height: 55;
+   overflow: none;
+    position: absolute;
+    left: 20%;
+    bottom: 4%;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+.class-12 i {
+    font-size: 1.7em;
+    float: left;
+    margin-left: 5%;
+    position: relative;
+    top: 19%;
+}
+.class-13 {
+    width: 100%;
+    height: 24%;
+    background-color: lightgreen;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    margin-bottom: 1%;
+    position: relative;  
+}
+.class-13 label{
+    position: relative;
+    left: 5%;
+    font-style: oblique;
+}
+.class-13 span{
+    position: relative;
+    top: 40%;
+    right: 20%;
+    font-weight: 500;
+}
+.class-13 i {
+    font-size: 1.7em;
+    float: left;
+    margin-left: 5%;
+    position: relative;
+    top: 19%;
+}
+.class-16{
+    width: 60%;
+    height: 9%;
+    position: relative;
+    left: 20%;
+    top: 9.5%;
+    background-color: #282828;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.1em;
+    color: white;
+    display: flex;
+}
+#id-2, #id-3, #id-4{
+    display: none;
+}
+.class-17 {
+    width: 80%;
+    height: 45%;
+    position: relative;
+    left: 10%;
+
+    top: 5%;
+    
+
+}
+.class-17 p {
+    color: #fff;
+}
+.class-18 {
+    width: 100%;
+    height: 90%;
+    position: relative;
+    top: 5%;
+
+
+}
+.class-19 {
+    width: 30%;
+    height: 5%;
+}
+.class-20 {
+    width: 50%;
+    height: 100%;
+    
+    margin-top: 2%;
+    margin-left: 2%;
+ 
+}
+.class-21{
+    width: 100%;
+    height: 48%;
+    position: relative;
+    margin-bottom: 2%;
+    background-color: lightblue;
+    border-radius: 1em;
+
+}
+.class-21 p{
+    text-indent: 1.5em;
+    color: #000;
+}
+.class-22 {
+    width: 80%;
+    height: 10%;
+    position: relative;
+    top: 2%;
+    left: 10%;
+
+}
+  .skill-category {
+  margin-top: 50px;
+}
+
+.skill-box {
+  display: inline-block;
+  padding: 8px 12px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.skill-name {
+  font-weight: bold;
+}
+.underline {
+  position: relative;
+  width: 100%;
+}
+
+.underline::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #007bff; /* Change this to desired underline color */
+}
